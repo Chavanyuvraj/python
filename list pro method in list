@@ -1,0 +1,12 @@
+#-----  list ----
+
+list=[10,20,30,40]
+print(list)
+list.append(50)    #add list element
+print(list)
+list.sort(reverse=True)   #reverse sort
+print(list)
+list.sort()
+print(list)
+list.insert(1,15)    #insert element
+print(list)
